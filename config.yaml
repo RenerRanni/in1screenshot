@@ -4,6 +4,12 @@ defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
+# Ignorar aqui e no GIT!
+ignoreFiles: [
+	"/content/.obsidian/*", 
+	"/content/.trash/*",
+	"/content/IGNORE-Vault/*",
+]
 
 params:
   image: /images/banner.png
